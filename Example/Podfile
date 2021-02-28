@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LHTTT_Example' do
+  pod 'LHTTT', :path => '../'
+
+  target 'LHTTT_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "LHTTT",
+  "version": "0.1.0",
+  "summary": "A short description of LHTTT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18221534728@163.com/LHTTT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18221534728@163.com": "15652628678@163.com"
+  },
+  "source": {
+    "git": "https://github.com/18221534728@163.com/LHTTT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LHTTT/Classes/**/*"
+}

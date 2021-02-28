@@ -1,0 +1,6 @@
+framework module LHTTT {
+  umbrella header "LHTTT-umbrella.h"
+
+  export *
+  module * { export * }
+}
